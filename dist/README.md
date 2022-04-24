@@ -18,7 +18,7 @@
   
   ## Usage 
   
-  info
+  usage
 
   ##License 
 
@@ -27,7 +27,7 @@
     
   ## How to Contribute 
   
-  guide
+  guid
   
   ## Tests 
   
